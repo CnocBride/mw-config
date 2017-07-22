@@ -2180,6 +2180,7 @@ $wgConf->settings = array(
 		'etpowiki' => true,
 		'evawiki' => true,
 		'evelopediawiki' => true,
+		'examplewiki' => true,
 		'extloadwiki' => true,
 		'fablabesdswiki' => true,
 		'fantasiawiki' => true,
