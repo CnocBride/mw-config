@@ -1791,6 +1791,7 @@ $wgConf->settings = array(
 		'bigforestwiki' => true,
 		'bttestwiki' => true,
 		'calexitwiki' => true,
+		'examplewiki' => true,
 		'test1wiki' => true,
 		'inazumaelevenwiki' => true,
 		'ircwiki' => true,
